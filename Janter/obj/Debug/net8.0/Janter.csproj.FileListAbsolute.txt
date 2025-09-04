@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Janter\Janter\bin\Debug\net8.0\Janter.exe
+C:\Users\opilane\source\repos\Janter\Janter\bin\Debug\net8.0\Janter.deps.json
+C:\Users\opilane\source\repos\Janter\Janter\bin\Debug\net8.0\Janter.runtimeconfig.json
+C:\Users\opilane\source\repos\Janter\Janter\bin\Debug\net8.0\Janter.dll
+C:\Users\opilane\source\repos\Janter\Janter\bin\Debug\net8.0\Janter.pdb
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.dll
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\refint\Janter.dll
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.pdb
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\Janter.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Janter\Janter\obj\Debug\net8.0\ref\Janter.dll
