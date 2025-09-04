@@ -1,2 +1,9 @@
 # introJanter
-muutuja if, andmetüüpid, github
+Repositoorium C# alusteadmiste õppimiseks
+===========================================
+Õpilane Paul Marten Janter
+
+- muutujad
+- andmetüübid
+- if
+- githubi repo
